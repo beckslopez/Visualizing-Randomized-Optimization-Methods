@@ -1,4 +1,4 @@
-# visrandperf21 ReadMe
+# ReadMe for Argonne Summer 2021 Research Experience
 
 --------------------------------------------------------------------------------------
 # Introduction
