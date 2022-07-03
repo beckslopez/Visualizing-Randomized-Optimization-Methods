@@ -1,4 +1,4 @@
-# ReadMe for Argonne Summer 2021 Research Experience
+# ReadMe for Argonne Summer 2021 Research Experience: Visualizing and Understanding Randomized Optimization Methods
 
 --------------------------------------------------------------------------------------
 # Introduction
